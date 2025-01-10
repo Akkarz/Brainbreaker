@@ -1,0 +1,121 @@
+.logo {
+    position: absolute;
+    left: 250;
+    top: 50px;
+}
+
+.home_butt {
+    text-decoration: none;
+    position: absolute;
+    width: 60px;
+    height: 17px;
+    left: 446px;
+    top: 61px;
+    display: flex;
+    color: rgb(87, 81, 225);
+    font-family: "Rubik";
+    flex-direction: row;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.page_butt {
+    text-decoration: none;
+    position: absolute;
+    width: 84px;
+    height: 16px;
+    left: 534px;
+    top: 61px;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: "Rubik";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.about_butt {
+    text-decoration: none;
+    position: absolute;
+    width: 49.99px;
+    height: 16px;
+    left: 640.06px;
+    top: 61px;
+    color: black;
+    display: flex;
+    font-family: "Rubik";
+    flex-direction: row;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.login_butt {
+    position: absolute;
+    font-family: "Rubik";
+    font-weight: 500;
+    width: 97.78px;
+    height: 44px;
+    left: 1675px;
+    top: 35px;
+    box-sizing: border-box;
+    border: 1px solid rgba(6, 35, 91, 0.19);
+    border-radius: 50px;
+    background: rgb(255, 194, 36);
+}
+
+.search_box {
+    border: 1px solid;
+    border-color: rgb(6, 35, 91, 0.19);
+    border-radius: 50px;
+    position: absolute;
+    width: 423px;
+    height: 43px;
+    left: 1200.22px;
+    top: 35px;
+}
+
+.search_box input {
+    font-family: "Rubik";
+    color: rgb(141, 157, 181);
+    width: 400px;
+    height: 40px;
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+
+.search_box .search_icon {
+    position: absolute;
+    left: 378;
+    top: 2;
+    width: 40px;
+    height: 38;
+    background: rgb(87, 81, 225);
+    text-align: center;
+    line-height: 50px;
+    border-radius: 50px;
+
+}
+
+.search_box .search_icon .search_logo {
+    position: absolute;
+    top: 11.7px;
+    left: 13;
+}
+

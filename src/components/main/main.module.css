@@ -1,0 +1,457 @@
+.description_main {
+    font-family: "Rubik";
+    font-size: 63;
+    position: absolute;
+    width: 700px;
+    height: 180px;
+    left: 136px;
+    right: 1092px;
+    top: 210px;
+    bottom: 240px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: left;
+}
+
+.start_button_main {
+    position: absolute;
+    width: 202.22px;
+    height: 49.91px;
+    left: 128px;
+    right: 1589.78px;
+    top: 500.5px;
+    bottom: 162.59px;
+    border-radius: 50px;
+    box-shadow: 4px 6px 0px 0px rgb(5, 0, 113);
+    background: rgb(87, 81, 225);
+    font-weight: 650;
+    font-size: 16;
+    font-family: "Rubik";
+    color: white;
+}
+
+.background_main {
+    position: absolute;
+    left: -2px;
+    top: 180;
+}
+
+.word {
+    color: white;
+    font-family: "Rubik";
+    font-size: 63;
+    position: absolute;
+    left: 633;
+    top: 337.5;
+    font-weight: 465;
+}
+
+.vector {
+    position: absolute;
+    left: 620;
+    top: 405;
+}
+
+
+
+.description_two {
+    position: absolute;
+    width: 1452px;
+    height: 146px;
+    left: 227px;
+    right: 241px;
+    top: 850px;
+    bottom: 5668px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-family: "Rubik";
+    font-size: 34px;
+    font-weight: 550;
+    line-height: 45.9px;
+    letter-spacing: -0.9px;
+    text-align: center;
+}
+
+.registration_button {
+    position: absolute;
+    width: 370px;
+    height: 84px;
+    left: 436px;
+    right: -436px;
+    top: 1250px;
+    bottom: -907px;
+    border-radius: 20px;
+    background: rgb(104, 87, 214);
+    border: none;
+    font-weight: 600;
+    font-size: 18;
+    font-family: "Rubik";
+    color: white;
+}
+
+.login_button {
+    position: absolute;
+    width: 370px;
+    height: 84px;
+    left: 1110px;
+    right: -436px;
+    top: 1250px;
+    bottom: -907px;
+    border-radius: 20px;
+    background: rgb(104, 87, 214);
+    border: none;
+    font-weight: 600;
+    font-size: 18;
+    font-family: "Rubik";
+    color: white;
+}
+
+.choose_text {
+    position: absolute;
+    width: 49px;
+    height: 46px;
+    left: 927px;
+    right: 944px;
+    top: 1243px;
+    bottom: 5448px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-family: "Rubik";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 45.9px;
+    letter-spacing: -0.9px;
+    text-align: center;
+}
+
+.statistics {
+    position: absolute;
+    width: 1906px;
+    height: 221px;
+    left: 0;
+    right: 0;
+    top: 1500px;
+    bottom: 5092px;
+    background: rgb(73, 58, 172);
+}
+
+.tests {
+    position: absolute;
+    width: 174px;
+    height: 46px;
+    left: 200px;
+    right: 1595px;
+    top: 122px;
+    bottom: 110px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: "Rubik";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 45.9px;
+    letter-spacing: -0.9px;
+    text-align: center;
+}
+
+.tests_num {
+    position: absolute;
+    width: 174px;
+    height: 46px;
+    left: 227px;
+    right: 1595px;
+    top: 5px;
+    bottom: 110px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: "Rubik";
+    font-size: 65;
+    font-weight: 400;
+    line-height: 45.9px;
+    letter-spacing: -0.9px;
+    text-align: center;
+}
+
+.polls {
+    position: absolute;
+    width: 174px;
+    height: 46px;
+    left: 600px;
+    right: 1595px;
+    top: 122px;
+    bottom: 110px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: "Rubik";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 45.9px;
+    letter-spacing: -0.9px;
+    text-align: center;
+}
+
+.polls_num {
+    position: absolute;
+    width: 174px;
+    height: 46px;
+    left: 637px;
+    right: 1595px;
+    top: 5px;
+    bottom: 110px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: "Rubik";
+    font-size: 65;
+    font-weight: 400;
+    line-height: 45.9px;
+    letter-spacing: -0.9px;
+    text-align: center;
+}
+
+.crosswords {
+    position: absolute;
+    width: 174px;
+    height: 46px;
+    left: 1200px;
+    right: 1595px;
+    top: 122px;
+    bottom: 110px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: "Rubik";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 45.9px;
+    letter-spacing: -0.9px;
+    text-align: center;
+}
+
+.crosswords_num {
+    position: absolute;
+    width: 174px;
+    height: 46px;
+    left: 1257px;
+    right: 1595px;
+    top: 5px;
+    bottom: 110px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: "Rubik";
+    font-size: 65;
+    font-weight: 400;
+    line-height: 45.9px;
+    letter-spacing: -0.9px;
+    text-align: center;
+}
+
+.users {
+    position: absolute;
+    width: 174px;
+    height: 46px;
+    left: 1600px;
+    right: 1595px;
+    top: 122px;
+    bottom: 110px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: "Rubik";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 45.9px;
+    letter-spacing: -0.9px;
+    text-align: center;
+}
+
+.users_num {
+    position: absolute;
+    width: 174px;
+    height: 46px;
+    left: 1687px;
+    right: 1595px;
+    top: 5px;
+    bottom: 110px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: "Rubik";
+    font-size: 65;
+    font-weight: 400;
+    line-height: 45.9px;
+    letter-spacing: -0.9px;
+    text-align: center;
+}
+
+.roles_description {
+    position: absolute;
+    width: 548px;
+    height: 66px;
+    left: 705px;
+    right: 667px;
+    top: 1750px;
+    bottom: 4987px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(22, 20, 57);
+    font-family: "Rubik";
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 65.9px;
+    letter-spacing: -0.9px;
+    text-align: right;
+}
+
+.creator {
+    position: absolute;
+    width: 579px;
+    height: 476px;
+    left: 335px;
+    right: 1006px;
+    top: 1930px;
+    bottom: 4480px;
+    border-radius: 38px;
+    background: rgb(239, 239, 239);
+}
+
+.creator_name {
+    position: absolute;
+    width: 362px;
+    height: 66px;
+    left: 35px;
+    top: 1px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(70, 65, 168);
+    font-family: "Rubik";
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 65.9px;
+    letter-spacing: -0.9px;
+    text-align: left;
+}
+
+.creator_description {
+    position: absolute;
+    width: 519px;
+    height: 123px;
+    left: 35px;
+    right: -267px;
+    top: 100;
+    bottom: -1226px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-family: "Rubik";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 40.9px;
+    letter-spacing: -0.9px;
+    text-align: left;
+}
+
+.creator_start {
+    position: absolute;
+    width: 464px;
+    height: 56px;
+    left: 55px;
+    top: 400px;
+    border-radius: 20px;
+    background: rgb(104, 87, 214);
+    border: none;
+    color: rgb(255, 255, 255);
+    font-family: "Rubik";
+    font-size: 36px;
+    font-weight: 450;
+    line-height: 40.9px;
+    letter-spacing: -0.9px;
+    text-align: center;
+}
+
+.user {
+    position: absolute;
+    width: 579px;
+    height: 476px;
+    left: 1081px;
+    right: -1081px;
+    top: 1930px;
+    bottom: -1464px;
+    border-radius: 38px;
+    background: rgb(239, 239, 239);
+}
+
+.user_name {
+    position: absolute;
+    width: 362px;
+    height: 66px;
+    left: 35px;
+    top: 1px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(70, 65, 168);
+    font-family: "Rubik";
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 65.9px;
+    letter-spacing: -0.9px;
+    text-align: left;
+}
+
+.user_description {
+    position: absolute;
+    width: 519px;
+    height: 123px;
+    left: 35px;
+    right: -267px;
+    top: 100;
+    bottom: -1226px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-family: "Rubik";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 40.9px;
+    letter-spacing: -0.9px;
+    text-align: left;
+}
+
+.user_start {
+    position: absolute;
+    width: 464px;
+    height: 56px;
+    left: 55px;
+    top: 400px;
+    border-radius: 20px;
+    background: rgb(104, 87, 214);
+    border: none;
+    color: rgb(255, 255, 255);
+    font-family: "Rubik";
+    font-size: 36px;
+    font-weight: 450;
+    line-height: 40.9px;
+    letter-spacing: -0.9px;
+    text-align: center;
+}
